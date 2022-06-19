@@ -6,6 +6,7 @@ public class Ronqui {
 		
 		System.out.println("Oi");
 		System.out.println("Oi dois.");
+		System.out.println("Oi três.");
 	}
 
 }
